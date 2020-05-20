@@ -12,9 +12,12 @@ This is my private blog where I post things I care about, explain stuff I think 
 
 
 86199 Augsburg
+
 GERMANY
 
+
 Contact:
+
 eMail: jo.ried.de@gmail.com
 
 ## Datenschutzerklärung (DSGVO)
